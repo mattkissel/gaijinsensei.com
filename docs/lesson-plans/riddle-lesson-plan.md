@@ -31,7 +31,7 @@ You can use one of two riddles:
 <ul>
 <li><a href="/worksheets/einstein-riddle-worksheet">Einstein Riddle Worksheet & Answer Key</a></li>
 
-<li><a href="/worksheets/einstein-riddle-worksheet/einstein-riddle-hints">Einstein Riddle Clues and Clue Order</a></li>
+<li><a href="/worksheets/einstein-riddle-worksheet/">Einstein Riddle Clues and Clue Order</a></li>
 
 </ul>
    </td>
